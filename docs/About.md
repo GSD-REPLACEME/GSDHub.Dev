@@ -13,4 +13,4 @@ has_children: false
 
 
 
-_setup by [Pauliver](https://Pauliver.com)_
+
