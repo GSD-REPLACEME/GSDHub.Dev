@@ -26,3 +26,6 @@ aux_links:
   "GSD": "//github.com/GSD/GSDHub.Dev"
   
 color_scheme: "nil"
+
+markdown: kramdown
+
