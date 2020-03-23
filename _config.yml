@@ -1,6 +1,6 @@
 # Remote Setting
 baseurl: "/" #https://github.com/pmarsceill/just-the-docs/issues/148
-url: "GSDHUB.Dev"
+#url: "GSDHUB.Dev"
 repository: GSD/GSDHub.Dev
 
 # when in doubt, YML Validator: https://codebeautify.org/yaml-validator
