@@ -5,7 +5,7 @@ nav_order: 2
 has_children: false
 ---
 
-Perhaps checkout
+**Other Link**
 
 [GitHub.Tips](GitHub.tips) for information on GitHub
 
