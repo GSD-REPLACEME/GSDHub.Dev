@@ -1,6 +1,6 @@
 # Remote Setting
 baseurl: "/" #https://github.com/pmarsceill/just-the-docs/issues/148
-url: "GSDHUB.Dev"
+#url: "GSDHUB.Dev"
 repository: GSD/GSDHub.Dev
 
 title: GSD
@@ -24,4 +24,5 @@ footer_content: "Copyright &copy; 2019-2020 Paul Oliver. Distributed by an <a hr
 
 aux_links:
   "GSD": "//github.com/GSD/GSDHub.Dev"
-
+  
+color_scheme: "nil"
