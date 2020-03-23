@@ -1,7 +1,7 @@
 # Remote Setting
 baseurl: "/" #https://github.com/pmarsceill/just-the-docs/issues/148
 url: "GSDHUB.Dev"
-repository: gsd/GSDHub.Dev
+repository: GSD/GSDHub.Dev
 
 title: GSD
 
@@ -23,14 +23,5 @@ google_analytics: UA-161584770-1 # not for this theme, but just to be safe, unle
 footer_content: "Copyright &copy; 2019-2020 Paul Oliver. Distributed by an <a href="https://github.com/GSD/GSDHub.Dev/blob/master/LICENSE">MIT license.</a>"
 
 aux_links:
-  "GSD":
-    - "//github.com/GSD/GSDHub.Dev"
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
+  "GSD": "//github.com/GSD/GSDHub.Dev"
 
