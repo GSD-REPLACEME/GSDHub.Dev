@@ -10,3 +10,7 @@ has_children: false
 [GitHub.Tips](https://GitHub.tips) for information on using GitHub
 
 [ImageLearning.Community/](https://imagelearning.community/) for information on setting up Machine Learning
+
+
+
+_setup by [Pauliver](https://Pauliver.com)_
