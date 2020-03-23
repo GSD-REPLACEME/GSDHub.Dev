@@ -1,11 +1,11 @@
 # Remote Setting
 baseurl: "/" #https://github.com/pmarsceill/just-the-docs/issues/148
 #url: "github.tips"
-repository: pauliver/github.tips
+repository: gsd/GSDHub.Dev
 
-title: GitHub Tips
+title: GSD
 
-description: A place for Tips and Tricks _(for GitHub)_
+description: Your Hub for Getting Shit Done
 
 permalink: pretty
 
@@ -14,13 +14,23 @@ permalink: pretty
 remote_theme: pmarsceill/just-the-docs
 
 # Google Analytics Tracking (optional)
-# e.g, UA-159396166-4
-ga_tracking: UA-159396166-4
+# e.g, UA-161584770-1
+ga_tracking: UA-161584770-1
 plugins:  # not for this theme, but just to be safe, unless it breaks somthing?
   - jekyll-seo-tag # not for this theme, but just to be safe, unless it breaks somthing?
-google_analytics: UA-159396166-4 # not for this theme, but just to be safe, unless it breaks somthing?
+google_analytics: UA-161584770-1 # not for this theme, but just to be safe, unless it breaks somthing?
+
+#footer_content: "Copyright &copy; 2019-2020 Paul Oliver. Distributed by an <a href=\"https://github.com/GSD/">MIT license.</a>"
 
 aux_links:
-    - ![](https://github.com/pauliver/github.tips/workflows/Jekyll%20site%20CI/badge.svg)
+  "GSD":
+    - "//github.com/GSD/GSDHub.Dev"
 
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
 
